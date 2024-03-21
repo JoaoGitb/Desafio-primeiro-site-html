@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+    <header>
+        <img src="data:image/png;base64,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" alt="Logo" width="100">
+    </header>
+
+    <nav>
+        <a href="PaginaPrincipal.html">Pagina Principal</a>
+        <a href="SobreClinica.html">Sobre a Clinica</a>
+        <a href="HorarioAtendimento.html">Horario de Atendimento</a>
+        <a href="Contato.html">Contatos</a>
+    </nav>
+
+    <div>
+        <h1>Contato</h1>
+
+        <ul>
+            <li>Celular: (11)98876 - 0717</li>
+            <li>Whatsapp: (11) 98876 - 0717</li>
+            <li>Email: joaocarmo@gmail.com</li>
+        </ul>
+
+        <h2>Endereço Completo:</h2>
+        <P>endereço: Rua Roça Sales Jardim Elisa n102</P>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.6095699060324!2d-46.8524952!3d-23.7256327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfad6e50757f29%3A0xb505cf9f6f145050!2sR.%20Ro%C3%A7a%20S%C3%A1les%20-%20Jardim%20Santa%20Isabel%2C%20Itapecerica%20da%20Serra%20-%20SP%2C%2006872-030!5e0!3m2!1spt-BR!2sbr!4v1710988992917!5m2!1spt-BR!2sbr" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <footer>
+        <p>2024 Clínica Médica. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
