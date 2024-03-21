@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre a Clinica</title>
+</head>
+<body>
+    <header>
+        <img src="https://institutosaudemelhor.com.br/wp-content/uploads/2018/02/Instituto-Sau%CC%81de-Melhor-1.jpg" alt="Logo" width="100">
+    </header>
+
+    <nav>
+        <a href="PaginaPrincipal.html">Pagina Principal</a>
+        <a href="SobreClinica.html">Sobre a Clinica</a>
+        <a href="HorarioAtendimento.html">Horario de Atendimento</a>
+        <a href="Contato.html">Contatos</a>
+    </nav>
+
+    <div>
+        <h1>Sobre a Clinica</h1>
+        <p>Somos uma clínica médica com objetivo de proporcionar assistência médica para todas as idades. Garantimos um atendimento rápido, humanizado e ético, com uma excelente equipe de profissionais da área da saúde.</p>
+        <p>Aqui você pode realizar a sua consulta, exames, check-up, tratamento odontológico ou cirurgia sem precisar esperar meses para um agendamento. Nosso atendimento é diferenciado e dedicado. Não deixe para depois, agende seu horário hoje mesmo!</p>
+        
+        <h1>Missão</h1>
+        <p>Proporcionar aos pacientes atendimentos humanizados, cômodos e acessíveis com o objetivo de proporcionar a eles, soluções e melhores experiências em serviços médicos e odontológicos.</p>
+
+        <h1>visão</h1>
+        <p>Ser referência em atendimentos médicos e odontológicos na região do Barreiro até 2026.</p>
+
+        <h1>Valores</h1>
+        <p>Ser referência em atendimentos médicos e odontológicos na região do Barreiro até 2026.</p>
+    </div>
+
+    <footer>
+        <p>2024 Clínica Médica. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
